@@ -1,0 +1,7 @@
+~$  git clone https://github.com/ nome de usuário / nome de usuário. github.io
+nome de usuário do cd .github.io
+
+ echo "Olá Mundo"> index.html
+ ~$  git add --todos
+~$git commit -m "Confirmação inicial"
+~$ git push -u origem mestre
